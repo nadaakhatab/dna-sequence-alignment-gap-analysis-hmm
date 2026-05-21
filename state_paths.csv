@@ -1,0 +1,7 @@
+Sequence,State Path
+Seq1,S → M → M → M → M → M → M → E
+Seq2,S → I → I → I → M → M → M → M → M → M → E
+Seq3,S → I → I → M → M → M → M → M → D → E
+Seq4,S → M → M → M → M → M → M → E
+Seq5,S → I → M → M → M → M → M → M → E
+Seq6,S → D → D → M → M → M → M → I → I → E
