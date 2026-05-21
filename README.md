@@ -1,6 +1,6 @@
 # msa-to-profile-hmm
 
-> DNA sequence alignment and Profile HMM construction using MAFFT and Python — a Computational Biology assignment.
+> DNA sequence alignment and Profile HMM construction using MAFFT and Python 
 
 ---
 
@@ -118,8 +118,8 @@ Finale —
 msa-to-profile-hmm/
 ├── CompBio_MSA_to_ProfileHMM.ipynb   # Main notebook
 └── README.md
-
 ---
+```
 ## Downloaded files
 ```
 
